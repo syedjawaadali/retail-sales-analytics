@@ -1,0 +1,13 @@
+{
+  "total_revenue": 105546357.37,
+  "total_profit": 35399660.55,
+  "gross_margin_pct": 33.54,
+  "total_units": 1387052,
+  "avg_order_value": 76.09,
+  "avg_mom_growth_pct": -0.21,
+  "best_month": "2024-03",
+  "best_category": "Electronics",
+  "best_region": "West",
+  "n_transactions": 14600,
+  "date_range": "2024-01-01 to 2025-12-30"
+}
